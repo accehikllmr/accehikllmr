@@ -1,9 +1,9 @@
 # About me
 
 ### ❤ I love ...
-* spending time with my family and friends
-* playing games, discussing life and laughing a lot
-* riding my bicycle, walking around and playing sports
+* spending time with my family and friends.
+* playing games, discussing life and laughing a lot.
+* riding my bicycle, walking around and playing sports.
 
 ### 🔭 I’m currently working on ...
 * changing careers (from teaching to something in tech).
